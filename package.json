@@ -1,0 +1,22 @@
+{
+  "name": "iota-rivets-component",
+  "version": "0.1.0",
+  "description": "A Rivets JS implementation of Iota Component.",
+  "keywords": ["component", "rivets"],
+  "homepage": "http://github.com/helgoboss/iota-rivets-component",
+  "author": "Benjamin Klum <benjamin.klum@helgoboss.org>",
+  "licenses": [
+      {
+          "type": "MIT",
+          "url": "https://github.com/helgoboss/iota-rivets-component/blob/master/LICENSE"
+      }
+  ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/helgoboss/iota-rivets-component.git"
+  },
+  "main": "./iota-rivets-component.js",
+  "dependencies": {
+    "iota-component": "0.1.x"
+  }
+}
